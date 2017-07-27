@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senparc.Web", "Senparc.Web\Senparc.Web.csproj", "{AE7A55BC-1598-4B7D-BCA3-1C0DC23E205D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senparc.Web.Tests", "Senparc.Web.Tests\Senparc.Web.Tests.csproj", "{1AFC9A1B-E99E-4A9C-AA4A-C2C0F0B3E283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7A55BC-1598-4B7D-BCA3-1C0DC23E205D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7A55BC-1598-4B7D-BCA3-1C0DC23E205D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7A55BC-1598-4B7D-BCA3-1C0DC23E205D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7A55BC-1598-4B7D-BCA3-1C0DC23E205D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFC9A1B-E99E-4A9C-AA4A-C2C0F0B3E283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFC9A1B-E99E-4A9C-AA4A-C2C0F0B3E283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFC9A1B-E99E-4A9C-AA4A-C2C0F0B3E283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFC9A1B-E99E-4A9C-AA4A-C2C0F0B3E283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
